@@ -1,6 +1,5 @@
 ---
-layout: post
-Our Member
+title: Our Member
 Coach: 
 Captian:
 Member:
