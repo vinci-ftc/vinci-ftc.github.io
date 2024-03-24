@@ -127,7 +127,7 @@ navbar-var-length: false
 #keywords: "my,list,of,keywords"
 
 ######################################
-# --- Colours / background image --- #
+# ---Colours / background image --- #
 ######################################
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
@@ -143,7 +143,8 @@ footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
-title-col: "0085A1"
+title-col: "#0085A1"
+
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
 
