@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Member-test6
+title: Our Member-test7
 ---
 
 Coach: 
@@ -12,8 +12,9 @@ Captian&Driver:
 
 
 Builder:
+kyrie
 ---
-Kyrie Zhang
+
 
 tags: [books, test]
 
