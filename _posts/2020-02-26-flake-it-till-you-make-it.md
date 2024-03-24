@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Member-test8
+title: Our Member-test9
 ---
 
 Coach: 
@@ -10,9 +10,7 @@ Coach:
 Captian&Driver:
 ---
 
-Builder:
----
-kyrie
+Builder: kyrie
 ---
 
 
