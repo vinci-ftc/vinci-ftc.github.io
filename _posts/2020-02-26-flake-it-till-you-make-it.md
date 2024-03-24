@@ -1,13 +1,10 @@
----
-layout: post
+
 title: Our Member
 ---
+There is
 Coach: 
----
 Captian&Driver:
-
-
-Member:
+Builder: Kyrie Zhang
 
 
 tags: [books, test]
