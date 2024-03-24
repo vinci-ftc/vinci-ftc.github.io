@@ -1,19 +1,13 @@
 ---
 layout: post
-title: Our Member-test11
+title: Our Member-test12
 ---
 
-subtitle: There is our member in our team
-
-
+subtitle: There are our members in our team
 Coach: 
-
-
 Captian&Driver:
-
-
 Builder:kyrie
----
+
 
 
 tags: [books, test]
