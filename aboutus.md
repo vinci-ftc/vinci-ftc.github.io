@@ -7,9 +7,5 @@ subtitle: There are our members
 
 **Captian&Driver**:
 
-Builder: __Kyrie Zhang__                                                                                                                                                               
-Coder:
-
-
-
-
+**Builder**: *Kyrie Zhang*
+**coder**:
