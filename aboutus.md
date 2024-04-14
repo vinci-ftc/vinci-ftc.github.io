@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us--test 6
+title: About us--test 7
 subtitle: There are our members 
 ---
 **Coach**: _Lee Lening_
