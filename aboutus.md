@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About us--test 1;
 subtitle: There are our members 
 ---
 **Coach**: 
