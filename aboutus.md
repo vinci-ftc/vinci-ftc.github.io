@@ -3,10 +3,10 @@ layout: page
 title: About us--test 1;
 subtitle: There are our members 
 ---
-**Coach**: 
+**Coach**: Lee Lening
 
 **Captian&Driver**:
 
-**Builder**: *Kyrie Zhang*
+**Builder**: _Kyrie Zhang_
 
 **coder**:
