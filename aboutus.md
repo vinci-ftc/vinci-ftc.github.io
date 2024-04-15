@@ -9,7 +9,7 @@ subtitle: There are our members
         
 **Captian&Driver**: _Eddie Yan_
 
-![Eddie](assets/img/100240389_fcldgf13xp-Traditional Blue2f.png)
+![Eddie](assets/img/100240389_fcldgf13xp-Traditional Bluef.png)
 
 **Builder**: _Kyrie Zhang_
 
