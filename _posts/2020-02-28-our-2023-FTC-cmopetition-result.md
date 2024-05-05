@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Our 2023 FTC Competition Result-5
+title: Our 2023 FTC Competition Result-6
 subtitle: There's lots to learn!
 author: Kyrie Zhang
 ---
 **We successfully advanced to the finals of the FTC competition in Massachusetts last year!**
-![2023_grade](assets/img/2023-grade.jpg)
+![Eddie](assets/img/100240389_fcldgf13xp-Traditional Bluef.png)
 
 
  **Our Robot Last Year**
