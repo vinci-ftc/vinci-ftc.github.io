@@ -17,4 +17,4 @@ subtitle: There are our members
 
 ---
 Join Us!
-Contact with our coach by email:lening@vincirobotics.org
+Contact with our coach by email:info@vincisteamedu.com
