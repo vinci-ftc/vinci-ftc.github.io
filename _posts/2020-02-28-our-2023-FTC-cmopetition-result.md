@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Competition Result
+title: Our 2023 FTC Competition Result
 subtitle: There's lots to learn!
 author: Kyrie Zhang
 ---
