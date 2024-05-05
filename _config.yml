@@ -20,11 +20,7 @@ author: Kyrie
 ###############################################
 
 navbar-links:
-  About Me: "aboutus"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  About US: "aboutus"
 
 ################
 # --- Logo --- #
