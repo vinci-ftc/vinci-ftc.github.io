@@ -10,7 +10,7 @@ author: Kyrie Zhang
 
  **Our Robot Last Year**
  
-![2023_robot](../assets/img/2023-grade.jpg)
+![2023_robot](../assets/img/2023-robot.jpg)
 
 **Our Team**
 
