@@ -12,6 +12,7 @@ subtitle: There are our members
 ![Eddie](assets/img/100240389_fcldgf13xp-Traditional Bluef.png)
 
 **Builder**: _Kyrie Zhang_
+![kyrie](../assets/img/kyrie.jpg)
 
 **coder**:
 
